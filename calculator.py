@@ -67,4 +67,4 @@ while True:
         else:
             result = "Please enter an operator followed by two integers."
     
-        print(result)
+    print(result)
